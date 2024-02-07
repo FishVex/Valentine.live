@@ -1,20 +1,20 @@
-            .;;;, .;;;,                   .;;;, .;;;,
-       .;;;,;;;;;,;;;;;,.;;;,       .;;;.,;;;;;,;;;;;,;;;.
-      ;;;;xXXxXXxXXxXXxXXx;;;. .,. .;;;xXXxXXxXXxXXxXX;;;;;
-  .,,.`xXX'             `xXXx,;;;;;,xXXx'            `XXx;;,,.
- ;;;;xXX'                  `xXXx;xXXx'                 `XXx;;;;
- `;;XX'                       `XXX'                      `XX;;'
-,;;,XX                         `X'                        XX,;;,
-;;;;XX,                                                  ,XX;;;;
- ``.;XX,                                                ,XX;,''
-   ;;;;XX,                                            ,XX;;;;
-    ```.;XX,                                        ,XX;,'''
-       ;;;;XX,                                    ,XX;;;;
-        ```,;XX,                                ,XX;,'''
-            ;;;;XX,                          ,XX;;;;
-             ````,;XX,                    ,XX;, '''
-                 ;;;;;XX,              ,XX;;;;
-                  `````,;XX,        ,XX;,''''
-                       ;;;;;XX,  ,XX;;;;;
-                        `````;;XX;;'''''
-                             `;;;;'
+            ,XXX. ,XXX.                   ,XXX. ,XXX.
+       ,XXX.XXXXX.XXXXX.,XXX.       ,XXX,.XXXXX.XXXXX.XXX,
+      XXXX.xx.xx.xx.xx.xx.XXX, ,., ,XXX.xx.xx.xx.xx.xxXXXXX
+  ,..,..xx.             ..xx..XXXXX..xx..            .xx.XX..,
+ XXXX.xx.                  ..xx.X.xx..                 .xx.XXXX
+ .XXxx.                       .xxx.                      .xxXX.
+.XX.xx                         .x.                        xx.XX.
+XXXXxx.                                                  .xxXXXX
+ ..,Xxx.                                                .xxX...
+   XXXXxx.                                            .xxXXXX
+    ...,Xxx.                                        .xxX....
+       XXXXxx.                                    .xxXXXX
+        ....Xxx.                                .xxX....
+            XXXXxx.                          .xxXXXX
+             .....Xxx.                    .xxX. ...
+                 XXXXXxx.              .xxXXXX
+                  ......Xxx.        .xxX.....
+                       XXXXXxx.  .xxXXXXX
+                        .....XXxxXX.....
+                             .XXXX.
